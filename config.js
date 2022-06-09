@@ -1,36 +1,36 @@
 //=============『 Utama 』================== //
-global.owner = ['62895347198105'] 
-global.mods = ['62895347198105'] 
-global.prems = ['62895347198105'] 
+global.owner = ['6281247822525'] 
+global.mods = ['6281247822525'] 
+global.prems = ['6281247822525'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArifXyz OFC'
-global.numberowner = '62895347198105'
+global.nameowner = 'Rii OFC'
+global.numberowner = '6281247822525'
 global.instagram = 'https://instagram.com/arifrhmn._'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '0895347198105'
-global.pulsa = '0895347198105'
-global.gopay = '0895347198105'
+global.github = 'https://github.com/RiiGanzz'
+global.dana = '081247822525'
+global.pulsa = '081247822525'
+global.gopay = '081367417823'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'RifBotZ-Md'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
+global.namebot = 'BotRii-Md'
+global.gc = 'https://chat.whatsapp.com/CKF1y1F0M2J1hRJBSsv8bC'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = '10k : Permanen'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'RIFBOTZ-MD'
+global.wm = 'BotRii-MD'
 global.watermark = wm
-global.wm2 = '                     「 RIFBOTZ-MD⁩ 」'
-global.wm3 = '⫹⫺ RIFBOTZ-MD'
+global.wm2 = '                     「 BotRii-MD⁩ 」'
+global.wm3 = '⫹⫺  BotRii-MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
-global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.fla = 'https://wflamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
